@@ -41,31 +41,3 @@ group by location, population, date
 order by PercentPopulationInfected desc;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
